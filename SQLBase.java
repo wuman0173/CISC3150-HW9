@@ -2,7 +2,8 @@
 CISC 3150
 HW9 SQL Databases - Creating a connection with a database with java
 
-comments: Followed the tutorial.. http://stackoverflow.com/questions/2839321/connect-java-to-a-mysql-database
+comments: Followed the tutorial.. http://stackoverflow.com/questions/2839321/connect-java-to-a-mysql-database 
+and used http://www.tutorialspoint.com/jdbc/jdbc-environment-setup.htm to create the database in my computer
 This isnt working. I can't connect to the database, I keep getting the SQLEXCEPTION: No suitable driver found for "URL HERE" no matter which url I give. 
 UPDATE: OMG IT WORKS. Manually loaded driver using step 6... Followed directions as well, moved jar file before manually uploading driver.
 so then used...
